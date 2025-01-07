@@ -23,6 +23,22 @@
     background-repeat: no-repeat;
 }
 
+nav {
+    display: flex;
+    justify-content: center;
+    padding: 0.5rem;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #010628;
+    text-transform: uppercase;
+}
+
 .cardDetails {
     display: flex;
     flex-direction: column;
