@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: rgba(8, 216, 216, 0.155);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
